@@ -58,4 +58,4 @@ $ uvicorn main:app --reload --host 0.0.0.0
 
 ## POSTMAN Collection
 
-Download the POSTMAN collection from [/assets/mini-rag-app.postman_collection.json](/assets/mini-rag.postman_collection.json)
+Download the POSTMAN collection from [/assets/mini-rag.postman_collection.json](/assets/mini-rag.postman_collection.json)
